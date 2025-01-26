@@ -1,6 +1,6 @@
-#Full-Stack Application Using React 18 and .NET Core
+# Full-Stack Application Using React 18 and .NET Core
 
-Overview
+## Overview
 
 This project is a fully functional full-stack web application developed using React 18 for the frontend and .NET Core for the backend. The entire application, including the frontend, backend, images, and animations, was created with the assistance of ChatGPT. The backend is designed as an independent API, making it flexible and capable of serving any frontend. The application supports all fundamental CRUD (Create, Read, Update, Delete) operations and is designed to be included in my GitHub portfolio.
 
